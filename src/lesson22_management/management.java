@@ -8,6 +8,8 @@ public class management {
 	public String sushi2;
 	public String dateObj;
 	
+	
+	
 	// それぞれの引数に変数を代入
 	public management(String jpn, String sushi1, String sushi2, String dateObj) {
 		this.jpn = jpn;
