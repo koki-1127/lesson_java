@@ -12,6 +12,7 @@ public class run {
 		// 日付データの宣言
 		Date dateObj = new Date();
 		
+		
 		// 呼び出し（引数へ与えられた値を元に生成）
 		management japan = new management("こんにちは！ここは日本です！","この寿司はうまい","寿司は和食です","yyyy/MM/dd HH:mm:ss");
 		
